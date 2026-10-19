@@ -1,0 +1,7 @@
+APP_NAME = "BOB"
+
+WAKE_WORD = "hey bob"
+
+SLEEP_COMMAND = "bob sleep"
+
+ASSISTANT_VERSION = "1.0.0"
